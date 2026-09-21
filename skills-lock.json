@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "r3f-animation": {
+      "source": "enzed/r3f-skills",
+      "sourceType": "github",
+      "skillPath": "skills/r3f-animation/SKILL.md",
+      "computedHash": "c9e9ec609496aa89f44757212e220f601ca1387e38644a47603c5fb415eb2bb5"
+    },
+    "react-three-fiber": {
+      "source": "vercel-labs/json-render",
+      "sourceType": "github",
+      "skillPath": "skills/react-three-fiber/SKILL.md",
+      "computedHash": "33cfac131cbe9c89b14c4b49ca01e0b0a4a3f9c23bb6c81ac0514143703283e8"
+    }
+  }
+}
